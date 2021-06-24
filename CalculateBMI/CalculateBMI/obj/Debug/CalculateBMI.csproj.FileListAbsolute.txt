@@ -1,0 +1,7 @@
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\bin\Debug\CalculateBMI.exe.config
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\bin\Debug\CalculateBMI.exe
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\bin\Debug\CalculateBMI.pdb
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.exe
+C:\Users\divyashree.chatra\source\repos\CalculateBMI\CalculateBMI\obj\Debug\CalculateBMI.pdb
