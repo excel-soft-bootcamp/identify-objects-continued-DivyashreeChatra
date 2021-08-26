@@ -1,7 +1,7 @@
 # State Management Types :
 
-## Client-side Management
-## Server-side Management
+1. Client-side Management
+2. Server-side Management
 
 ## Client-side Management:
 1. View State:
