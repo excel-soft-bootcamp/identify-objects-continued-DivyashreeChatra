@@ -1,9 +1,9 @@
-##State Management Types :
+# State Management Types :
 
-#Client-side Management
-#Server-side Management
+## Client-side Management
+## Server-side Management
 
-#Client-side Management:
+## Client-side Management:
 1. View State:
  Viewstate is a very useful client side property.Viewstate stores any type of data and used for sending and receiving information.Viewstate is easy to apply and does not need access to any server resources. In a Viewstate, do not store big data, only store small values. Viewstate enables and disables on page level control. It also supports Encryption and Decryption and data/value is stored in hashed format. So we are not storing important data such as password, account information, etc. When more data is stored in this, then the page becomes heavy.
  2. Hidden field:
@@ -16,7 +16,7 @@ Control state technique is developed to maintain data work properly in order. We
 5. Query Strings:
 Query string stores the value in URL.
 
-##Server-side Management:
+## Server-side Management:
 1. Session:
 Session is a state management technique that is used to manage the state of a page or control throughout the application. So, using the session we can store the value and access it in another page or throughout the application.
 2. Application State:
